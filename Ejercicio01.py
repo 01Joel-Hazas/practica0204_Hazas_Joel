@@ -6,6 +6,6 @@ contraseña = "contraseña01"
 contraseñaIntroducida = input("Introduce una contraseña")
 
 if contraseñaIntroducida == contraseña.lower():
-    print("La contraseña es valida")
+    print("La contraseña es válida")
 else:
-    print("La contraseña no es valida")
+    print("La contraseña no es válida")
